@@ -1,0 +1,11 @@
+body{
+    overflow: hidden; background-image:url('calendar.jpg'); background-size: cover;
+}
+
+.main{
+    background: rgba(255, 255, 255, 0.9); height: 100%; max-width: 800px; margin:auto; padding: 20px;
+}
+
+.red{
+    font-size: larger; font-weight: bold; color: red;
+}
